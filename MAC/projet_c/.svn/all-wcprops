@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/c-bessonnet-guerci/!svn/ver/16/trunk/projet_c/projet_c
+END
+save.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/c-bessonnet-guerci/!svn/ver/49/trunk/projet_c/projet_c/save.c
+END
+error.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/c-bessonnet-guerci/!svn/ver/49/trunk/projet_c/projet_c/error.h
+END
+fenetre_image.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/c-bessonnet-guerci/!svn/ver/49/trunk/projet_c/projet_c/fenetre_image.h
+END
+ppm.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/c-bessonnet-guerci/!svn/ver/49/trunk/projet_c/projet_c/ppm.h
+END
+SDLMain.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/c-bessonnet-guerci/!svn/ver/22/trunk/projet_c/projet_c/SDLMain.m
+END
+callback.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/c-bessonnet-guerci/!svn/ver/50/trunk/projet_c/projet_c/callback.h
+END
+save.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/c-bessonnet-guerci/!svn/ver/49/trunk/projet_c/projet_c/save.h
+END
+menu.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/c-bessonnet-guerci/!svn/ver/49/trunk/projet_c/projet_c/menu.c
+END
+projet_c-Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/c-bessonnet-guerci/!svn/ver/34/trunk/projet_c/projet_c/projet_c-Info.plist
+END
+menu.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/c-bessonnet-guerci/!svn/ver/49/trunk/projet_c/projet_c/menu.h
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/c-bessonnet-guerci/!svn/ver/51/trunk/projet_c/projet_c/main.c
+END
+structures.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/c-bessonnet-guerci/!svn/ver/51/trunk/projet_c/projet_c/structures.h
+END
+projet_c-Prefix.pch
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/c-bessonnet-guerci/!svn/ver/13/trunk/projet_c/projet_c/projet_c-Prefix.pch
+END
+gtksdl.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/c-bessonnet-guerci/!svn/ver/22/trunk/projet_c/projet_c/gtksdl.c
+END
+error.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/c-bessonnet-guerci/!svn/ver/49/trunk/projet_c/projet_c/error.c
+END
+fenetre_image.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/c-bessonnet-guerci/!svn/ver/49/trunk/projet_c/projet_c/fenetre_image.c
+END
+callback.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/c-bessonnet-guerci/!svn/ver/52/trunk/projet_c/projet_c/callback.c
+END
+SDLMain.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/c-bessonnet-guerci/!svn/ver/13/trunk/projet_c/projet_c/SDLMain.h
+END
+ppm.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/c-bessonnet-guerci/!svn/ver/49/trunk/projet_c/projet_c/ppm.c
+END
+gtksdl.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/c-bessonnet-guerci/!svn/ver/22/trunk/projet_c/projet_c/gtksdl.h
+END

@@ -1,0 +1,20 @@
+Sous Linux (dossier LINUX):
+	librairies : 
+		le projet utilise les librairies:
+		- gtk version 2.x (sudo apt-get install libgtk2.0-dev et sudo apt-get install libgtk2.0-0)
+		- pixbuf (sudo apt-get install gtk2-engines-pixbuf)
+
+	compilation :
+	make
+	
+	exécution :
+	./ppm_editor
+	
+Sous Mac (dossier MAC):
+	librairies :
+		le projet utilise les librairies:
+		- gtk 2.14 (voir Gtk-Framework-2.14-LATEST.dmg)
+		- sdl (voir SDL-1.2.15.dmg)
+		  tutoriel : http://www.siteduzero.com/tutoriel-3-14080-installation-de-la-sdl.html
+			
+	compilation et exécution à partir de Xcode (4.3.2)
